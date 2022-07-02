@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+  border-bottom: 1px solid;
+  border-color: #848282;
+}
+
+header .heading {
+  font-size: 32px;
+}
+
+.nav-list {
+  text-align: center;
+  padding: 10px 0;
+  margin: 0 auto;
+  border-bottom: 1px solid;
+  border-color: #848282;
+}
+
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.main {
+  width: 800px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+ }
+
+.greenbox1 {
+  width: 200px;
+  height: 200px;
+  background: #e6ffe9;
+ }
+
+ .greenbox2 {
+  width: 200px;
+  height: 200px;
+  background: #cbffd3;
+ }
+
+ .greenbox3 {
+  width: 200px;
+  height: 200px;
+  background: #aeffbd;
+ }
+
+ .greenbox4 {
+  width: 200px;
+  height: 200px;
+  background: #93ffab;
+ }
+
+.yellowbox1 {
+  width: 200px;
+  height: 200px;
+  background: #f3ffd8;
+ }
+
+ .yellowbox2 {
+  width: 200px;
+  height: 200px;
+  background: #edffbe;
+ }
+
+ .yellowbox3 {
+  width: 200px;
+  height: 200px;
+  background: #e9ffa5;
+ }
+
+ .yellowbox4 {
+  width: 200px;
+  height: 200px;
+  background: #e4ff8d;
+ }
+
+.bluebox1 {
+  width: 200px;
+  height: 200px;
+  background: #d9e5ff;
+ }
+
+ .bluebox2 {
+  width: 200px;
+  height: 200px;
+  background: #bad3ff;
+ }
+
+ .bluebox3 {
+  width: 200px;
+  height: 200px;
+  background: #a4c6ff;
+ }
+
+ .bluebox4 {
+  width: 200px;
+  height: 200px;
+  background: #8eb8ff;
+ }
+
+
+footer {
+  width: 100%;
+  height: 120px;
+  text-align: center;
+  line-height: 120px;
+  background-color: #848282;
+}
+
+.footer-text {
+  color: #fff;
+}
